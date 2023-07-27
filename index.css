@@ -34,7 +34,7 @@ body{
     width: 55%;
     background-position: center;
     background-size: cover;
-    background-image: url(/product-preview-card/images/image-product-desktop.jpg);
+    background-image: url(/images/image-product-desktop.jpg);
     border-top-left-radius: .6em;
     border-bottom-left-radius: .6em;
 }
